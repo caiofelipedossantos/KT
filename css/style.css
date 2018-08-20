@@ -42,3 +42,46 @@
     position: relative;
     z-index: 3;
 }
+
+.sidebar-header{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.21); 
+}
+
+
+.sidebar .logo {
+    position: relative;
+    padding: 10px 15px;
+    z-index: 4;
+}
+
+.sidebar .logo .logo-text{
+    text-transform: uppercase;
+    padding: 5px 0;
+    display: block;
+}
+.sidebar .logo-img{
+    width: 40px;
+    display: inline-block;
+    max-height: 40px;
+    margin-right: 5px;
+}
+
+.sidebar .textLogo{
+    float: right;
+    color: #FFF;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px;
+    letter-spacing: 2px;
+}
+.sidebar .textLogo p{
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 200;
+    display: block;
+    margin: 0;
+    line-height: 0.3;
+}
