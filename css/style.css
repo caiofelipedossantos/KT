@@ -44,8 +44,7 @@
 }
 
 .sidebar-header{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 0 10px 10px 10px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.21); 
     position: relative;
     z-index: 3;
